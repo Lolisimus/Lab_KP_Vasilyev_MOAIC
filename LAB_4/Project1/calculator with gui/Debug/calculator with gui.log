@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\1\source\repos\Project1\calculator with gui\MyForm.h(240,69): error C2039: "button12_Click": не является членом "calculatorwithgui::MyForm".
+  (компиляция исходного файла "MyForm.cpp")
+  C:\Users\1\source\repos\Project1\calculator with gui\MyForm.h(15,19):
+   см. объявление "calculatorwithgui::MyForm"
+  
+C:\Users\1\source\repos\Project1\calculator with gui\MyForm.h(240,69): error C2065: button12_Click: необъявленный идентификатор
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\1\source\repos\Project1\calculator with gui\MyForm.h(240,53): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+  (компиляция исходного файла "MyForm.cpp")
+  C:\Users\1\source\repos\Project1\calculator with gui\MyForm.h(240,53):
+  требуется указатель на функцию-член
+  
+C:\Users\1\source\repos\Project1\calculator with gui\MyForm.cpp(9,25): error C2653: calculator: не является именем класса или пространства имен
+C:\Users\1\source\repos\Project1\calculator with gui\MyForm.cpp(9,37): error C2061: синтаксическая ошибка: идентификатор "MyForm"
